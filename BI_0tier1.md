@@ -32,7 +32,7 @@ sudo apt-get install -y gcc g++ make git tar cmake wget patch binutils bzip2 ipu
 ```
 #### Step 2: Install GCC
 
-* SLES 12
+* SLES 12 Only
 ```
 sudo zypper install -y gcc gcc5 gcc5-c++
 sudo ln -sf /usr/bin/gcc-5 /usr/bin/gcc
