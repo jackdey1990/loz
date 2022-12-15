@@ -26,8 +26,8 @@ export SOURCE_ROOT=/<source_root>/
   sudo zypper in libz1 zlib-devel
   ```
 * UBUNTU Distros
-  ```bash
- sudo apt-get update  
+  ```
+sudo apt-get update  
 sudo apt-get install -y gcc g++ make git tar cmake wget patch binutils bzip2 iputils-ping libz-dev diffutils
   ```
 #### Step 2: Install GCC
